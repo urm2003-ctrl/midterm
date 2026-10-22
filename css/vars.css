@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;700&family=Nunito:wght@400;600&display=swap');
+
+/* CSS Variables */
+:root {
+
+  --c-bg: #a8b89a;          /* page background */
+  --c-light: #e8efe3;       /* nav, card fronts, pills, form */
+  --c-sun: #f4c95d;         /* breathing sun, buttons */
+  --c-accent: #dfaf7b;      /* card backs, hovers */
+  --c-text: #2f3e2c;        /* main text */
+
+  /* fonts */
+  --ff-heading: 'Comfortaa', system-ui;
+  --ff-body: 'Nunito', sans-serif;
+}
