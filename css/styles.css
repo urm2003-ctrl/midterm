@@ -418,4 +418,13 @@ body {
     margin: 1rem;
     padding: 1.25rem;
   }
+
+
+@media (max-width: 768px) {
+  .media {
+    position: static;     
+    max-width: 320px;
+    margin: 20px auto 40px;  
+}
+}
 }
